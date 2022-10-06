@@ -2,7 +2,7 @@ Sample code to connect to the webserver
 # Hardware requrements 
 
 `ESP32` or `ESP8266` boards 
-Or boards using similar chipset to connect to *wifi*
+Or boards using similar chipset to connect to *Wi-Fi*
 
 # Software requirements 
 

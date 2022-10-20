@@ -1,6 +1,6 @@
 <?php
     ob_start();
-    include 'connection.html';
+    include 'connection.php';
 
   $name=$_POST['name'];
   $name = mysqli_real_escape_string($conn , $name);

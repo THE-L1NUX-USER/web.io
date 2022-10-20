@@ -21,7 +21,7 @@
   echo $query;
 
   $result=mysqli_query($conn , $query) or die(mysqli_error($conn));
-  header("location:inputs_display.html");
+  header("location:inputs_display.php");
   ob_end_flush();
     
 ?>

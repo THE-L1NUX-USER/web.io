@@ -1,1 +1,1 @@
-# [web.io](https://webio.thelinuxuser.tech/)
+# [web.io](https://webio.gq/)
